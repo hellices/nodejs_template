@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "nodejs_template"
+  annotations:
+    backstage.io/techdocs-ref: ./README.md
 spec:
   type: service
   owner: user:guest
