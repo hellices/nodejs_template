@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "nodejs_template"
   annotations:
-    backstage.io/techdocs-ref: dir:./README.md
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:guest
