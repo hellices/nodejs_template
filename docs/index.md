@@ -4,4 +4,4 @@ This is a basic example of documentation.
 
 # my document is working
 
-# v 0.1 test
+# v 0.2 test
