@@ -18,4 +18,5 @@ spec:
   type: openapi
   lifecycle: production
   owner: petstore@example.com
-  definition: https://petstore.swagger.io/v2/swagger.json
+  definition:
+    $text: https://petstore.swagger.io/v2/swagger.json
