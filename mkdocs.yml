@@ -5,7 +5,8 @@ nav:
 
 plugins:
   - techdocs-core
-  - search
+  - search:
+      lang: ko
 
 theme:
   name: material
