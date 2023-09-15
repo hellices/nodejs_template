@@ -7,4 +7,4 @@ plugins:
   - techdocs-core
 
 theme:
-  name: material
+  font: false
