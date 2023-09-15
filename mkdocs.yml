@@ -7,8 +7,4 @@ plugins:
   - techdocs-core
 
 theme:
-  name: mkdocs
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - rust
+  name: material
