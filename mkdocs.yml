@@ -5,6 +5,7 @@ nav:
 
 plugins:
   - techdocs-core
+  - offline
 
 theme:
   name: material
